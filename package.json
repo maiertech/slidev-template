@@ -1,6 +1,9 @@
 {
   "private": true,
   "name": "slidev-template",
+  "description": "Template for my Slidev slides with support for Gitpod and StackBlitz.",
+  "license": "MIT",
+  "repository": "maiertech/slidev-template",
   "scripts": {
     "build": "slidev build",
     "dev": "slidev",
@@ -8,8 +11,7 @@
   },
   "dependencies": {
     "@slidev/cli": "^0.29.2",
-    "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "^0.21.2"
   },
   "devDependencies": {
     "@types/node": "^17.0.23"
