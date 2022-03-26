@@ -9,3 +9,4 @@ vscode:
   extensions:
     - antfu.slidev
     - esbenp.prettier-vscode
+    - octref.vetur
