@@ -10,5 +10,8 @@
     "@slidev/cli": "^0.29.2",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.23"
   }
 }
